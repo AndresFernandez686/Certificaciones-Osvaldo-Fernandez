@@ -4,6 +4,7 @@ Repositorio que reúne mis certificaciones y cursos de formación complementaria
 
 Principales áreas:
 
+Git/GitHub
 Desarrollo Web
 Python / Flask
 Git y GitHub
